@@ -1,4 +1,4 @@
-# DxO-One-Webcam-Controller
+# dxo-one-webcam-server
 
 > A user-space driver and MJPEG server built in Java 21 to use the Ambarella-based DxO ONE action camera as a live webcam via USB.
 
